@@ -2,7 +2,7 @@
 
 Un videojuego **Shooter Top-Down 2D** inspirado en Spider-Man, desarrollado completamente con **Flutter y Dart puro** sin motores de juego externos. Todo el renderizado es procedural usando `CustomPainter` y `Canvas` de Flutter.
 
-> **Curso:** Desarrollo de Aplicaciones Móviles Avanzadas (Flutter & Dart)  
+> **Curso:** Desarrollo de Lenguaje de Programación para Aplicaciones Móviles (Flutter & Dart)  
 > **Restricción:** Sin motores externos (no Flame, no Unity). Solo Flutter SDK.
 
 ---
@@ -205,5 +205,5 @@ Se calcula el rango de tiles visibles según la posición de la cámara (frustum
 
 ## 📝 Licencia
 
-Proyecto educativo — Desarrollo de Aplicaciones Móviles (Flutter & Dart).  
+Proyecto educativo — Daniel Mateus.  
 Temática inspirada en Spider-Man de Marvel Comics. Mecánicas basadas en DOOM (id Software, 1993).
